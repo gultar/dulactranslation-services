@@ -1,0 +1,149 @@
+{
+  "p": "<p></p><p>Besoin de traduire un document pour votre réunion? </p><p>Vous voulez faire traduire votre site web?</p><p>Vous voulez entrer en contact avec des clients anglophones?</p><p><em><strong>Bonne nouvelle!</strong></em> &nbsp;C'est justement ma spécialité!</p><p> Mes services de traduction sont offerts de <em>l'anglais au français</em></p>",
+  "section": [
+    {
+      "@class": "pricecol",
+      "div": {
+        "@class": "icon",
+        "i": {
+          "@class": "icon-suitcase"
+        }
+      },
+      "h3": {
+        "@class": "service-title",
+        "span": "Commercial"
+      },
+      "ul": {
+        "@class": "service-list",
+        "span": [
+          {
+            "@class": "bult fa fa-asterisk icon-asterisk"
+          },
+          {
+            "@class": "bult fa fa-asterisk icon-asterisk"
+          },
+          {
+            "@class": "bult fa fa-asterisk icon-asterisk"
+          },
+          {
+            "@class": "bult fa fa-asterisk icon-asterisk"
+          }
+        ],
+        "li": [
+          {
+            "@class": "service-item",
+            "#text": "Études et rapports"
+          },
+          {
+            "@class": "service-item",
+            "#text": "Publicité et Marketing"
+          },
+          {
+            "@class": "service-item",
+            "#text": "Présentations"
+          },
+          {
+            "@class": "service-item",
+            "#text": "Médias sociaux"
+          }
+        ]
+      }
+    },
+    {
+      "@class": "pricecol",
+      "div": {
+        "@class": "icon",
+        "i": {
+          "@class": "icon-terminal"
+        }
+      },
+      "h3": {
+        "@class": "service-title",
+        "span": "Techno et TI"
+      },
+      "ul": {
+        "@class": "service-list",
+        "span": [
+          {
+            "@class": "bult fa fa-asterisk icon-asterisk"
+          },
+          {
+            "@class": "bult fa fa-asterisk icon-asterisk"
+          },
+          {
+            "@class": "bult fa fa-asterisk icon-asterisk"
+          },
+          {
+            "@class": "bult fa fa-asterisk icon-asterisk"
+          }
+        ],
+        "li": [
+          {
+            "@class": "service-item",
+            "#text": "Documentation"
+          },
+          {
+            "@class": "service-item",
+            "#text": "Manuels utilisateurs"
+          },
+          {
+            "@class": "service-item",
+            "#text": "Localisation Web"
+          },
+          {
+            "@class": "service-item",
+            "#text": "Descriptions de produits"
+          }
+        ]
+      }
+    },
+    {
+      "@class": "pricecol",
+      "div": {
+        "@class": "icon",
+        "i": {
+          "@class": "icon-rocket"
+        }
+      },
+      "h3": {
+        "@class": "service-title",
+        "span": "Services généraux"
+      },
+      "ul": {
+        "@class": "service-list",
+        "span": [
+          {
+            "@class": "bult fa fa-asterisk icon-asterisk"
+          },
+          {
+            "@class": "bult fa fa-asterisk icon-asterisk"
+          },
+          {
+            "@class": "bult fa fa-asterisk icon-asterisk"
+          },
+          {
+            "@class": "bult fa fa-asterisk icon-asterisk"
+          }
+        ],
+        "li": [
+          {
+            "@class": "service-item",
+            "#text": "Traduction générale"
+          },
+          {
+            "@class": "service-item",
+            "#text": "Révision bilingue"
+          },
+          {
+            "@class": "service-item",
+            "#text": "Rédaction"
+          },
+          {
+            "@class": "service-item",
+            "#text": "Développement Web"
+          }
+        ]
+      }
+    }
+  ]
+}
