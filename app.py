@@ -1,8 +1,8 @@
   
 from flask import Flask
 from flask_session import Session
-from modules.routes import register_routes
-from modules.file_utils import *
+from src.routes import register_routes
+from src.file_utils import *
 import secrets
 import os
 

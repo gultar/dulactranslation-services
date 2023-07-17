@@ -1,5 +1,5 @@
 # from . import routes_blueprint
-from modules.dependencies import *
+from src.dependencies import *
 
 # @routes_blueprint.record
 def register_route(app):
