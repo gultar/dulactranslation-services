@@ -2,7 +2,6 @@
 from flask import Flask
 from flask_session import Session
 from src.routes import register_routes
-from src.file_utils import *
 import secrets
 import os
 
